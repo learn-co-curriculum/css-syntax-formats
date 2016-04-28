@@ -80,10 +80,22 @@ p {
 </html>
 ```
 
+### Comments
+
+To comment in CSS simply start with `/*` and end with `*/`
+
+```css
+/* this is a comment */
+
+/* It can be single, 
+   or multiple lines */
+```
+
 ## Summary
 
 - CSS allows us to style our HTML pages.
 - CSS has three distinct formats, although external CSS is considered the best option for styling websites.
+- Comments in CSS are written like `/* this */`.
 
 ## Resources
 
