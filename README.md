@@ -89,4 +89,3 @@ p {
 
 - [MDN - CSS Tutorials for Beginners](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 - [MDN - CSS Property Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- [CSS Diner Online Game](http://flukeout.github.io/)
