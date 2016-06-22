@@ -45,7 +45,7 @@ Inline CSS is written within a `style` attribute and only effects the single ele
 
 #### Embedded
 
-Embedded CSS is included typically wihtin the `<head>` section of an HTML document within `<style>` elements. This only affects the elements selected across the particular page that it is includded within.
+Embedded CSS is included typically within the `<head>` section of an HTML document within `<style>` elements. This only affects the elements selected across the particular page that it is included within.
 
 ```html
 <style>
@@ -101,3 +101,5 @@ To comment in CSS simply start with `/*` and end with `*/`
 
 - [MDN - CSS Tutorials for Beginners](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 - [MDN - CSS Property Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/css-syntax-formats'>Syntax and Formats</a> on Learn.co and start learning to code for free.</p>
